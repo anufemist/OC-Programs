@@ -256,7 +256,7 @@ if reactor.isActivelyCooled() then
 end
 addTab(loc.tabAbout, function() -- О программе
     addText(loc.aboutAuthor)
-	addText("GitHub: ")
+	addText("GitHub: https://github.com/Toxa2015Ars/OC-Programs/tree/main/1%20program")
 	addText(loc.aboutVersion .. "1.0.1")
 	addText(loc.aboutFounded)
 end)
