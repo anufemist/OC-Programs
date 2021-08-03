@@ -21,7 +21,7 @@
 	infoCasingTemp = "Температура  обшивки (°C): ",
 	infoFuel = "Кол - во топлива (mB): ",
 	infoWaste = "Кол - во отходов (mB): ",
-	infoFuelMax = "Вместимость хранилища топлива",
+	infoFuelMax = "Вместимость хранилища топлива(mB): ",
 	infoReactivity = "Реактивность топлива (%): ",
 	infoFuelCons = "Расход топлива (mB/t): ",
 	infoReactorEnergyProd = "Генерация энергии (RF/t): ",
